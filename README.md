@@ -42,6 +42,13 @@
  <img src= https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white />
 </div>
 
+<h5>Current learning:</h5>
+<div>
+ <img src= https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white />
+ <img src= https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white />
+ <img src=https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white />
+</div>
+
 ##
 
 <h3>Connect with me: </h3>
